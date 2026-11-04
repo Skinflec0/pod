@@ -2,10 +2,6 @@
 
 An iPod-style music player that runs entirely in your browser. Drag in your own MP3s, spin the click wheel, and listen. Your library is stored on your device and nothing is uploaded.
 
-**Live demo:** `https://<your-username>.github.io/<repo>/`
-
-<!-- Add a screenshot: ![Screenshot](screenshot.png) -->
-
 ## Features
 
 **Library**
