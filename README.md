@@ -147,7 +147,3 @@ Near the top of the script there is an empty `STARTER` array. Add links to CORS-
 ## Legal
 
 Only add music you own or have permission to use. This project is an independent tribute to a classic interface design and is not affiliated with or endorsed by Apple Inc. "iPod" is a trademark of Apple Inc.
-
-## License
-
-MIT. See [LICENSE](LICENSE).
